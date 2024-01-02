@@ -21,7 +21,7 @@ The script in the `templates` folder is meant to automatise the installation of 
 It expect a parameter `-i` with the IP of the device in your local network:
 
 ```
-$ ./install_xavi_templates.sh -i 172.21.88.14
+$ ./install_templates.sh -i 172.21.88.14
 
 Will copy templates from . to root@172.21.88.14:/usr/share/remarkable/templates
 
