@@ -1,0 +1,27 @@
+    {
+      "name": "1o1 w/. Margin",
+      "filename": "x_1o1",
+      "iconCode": "\ue9ab",
+      "categories": [
+        "Xavi",
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Standup w/. Margin",
+      "filename": "x_standup",
+      "iconCode": "\ue9ab",
+      "categories": [
+        "Xavi",
+        "Life/organize"
+      ]
+    },
+    {
+      "name": "Checklist w/. Margin",
+      "filename": "x_checklist",
+      "iconCode": "\ue9ab",
+      "categories": [
+       	"Xavi",
+        "Life/organize"
+      ]
+    },
